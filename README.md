@@ -6,6 +6,8 @@ packages and dependencies handled by conda
 
 `conda create --name calc-developable-land`
 
+`conda activate calc-developable-land`
+
 `conda install --file requirements.txt`
 
 `python -m ipykernel install --user -name=calc-developable-land`
