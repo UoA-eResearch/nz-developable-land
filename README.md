@@ -14,6 +14,10 @@ packages and dependencies handled by conda
 
 `jupyter notebook`
 
+## Processing 
+- Step0 - removing undevelopable land (waterbodies) and generating slope images for each FUA
+- Step01_mp - calculating developable area (sqkm) under given slope and distance thresholds 
+
 ## data sources
 - 15m Digital elevation model for New Zealand, developed by School of Surveying, University of Otago https://www.otago.ac.nz/surveying/research/geospatial/otago040574.html#nzsosdem Tiles available to download free via Koordinates https://koordinates.com
 - FUA coordinates (FUA_coordinates.xlsx)
